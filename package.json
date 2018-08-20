@@ -1,0 +1,27 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "This is a Slack bot application built with Node and the slack-api-bot package from mishk0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfaller/slack-bot.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Slack"
+  ],
+  "author": "Thomas Faller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasfaller/slack-bot/issues"
+  },
+  "homepage": "https://github.com/thomasfaller/slack-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
